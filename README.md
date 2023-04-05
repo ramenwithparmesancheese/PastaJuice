@@ -11,7 +11,7 @@ Don't waste your time copying down the information about my bot since I changed 
 
 ## <ins>Installation Requirements</ins>
 
-All you need is Discord and a code editor.
+All you need is Discord, python IDLE, and a code editor.
 
 ## <ins>Features</ins>
 -  Insulting people badly
