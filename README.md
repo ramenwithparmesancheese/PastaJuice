@@ -9,7 +9,7 @@ The image used as the profile picture for PastaJuice, made by DALLE-2.
 
 Don't waste your time copying down the information about my bot since I changed all of it.
 
-Installation Requirements
+## <ins>Installation Requirements</ins>
 
 All you need is Discord and a code editor.
 
