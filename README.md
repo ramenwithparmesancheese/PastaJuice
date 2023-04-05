@@ -23,4 +23,12 @@ All you need is Discord and a code editor.
 -  Roll a dice
 -  /help lists the commands PastaJuice has to offer
 
+## <ins>Copyright Agreements</ins>
+
+- You may not use this without giving me credit.
+
+thats all basically
+
+
+
 
