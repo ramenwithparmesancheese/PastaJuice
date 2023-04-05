@@ -13,5 +13,14 @@ Don't waste your time copying down the information about my bot since I changed 
 
 All you need is Discord and a code editor.
 
+## <ins>Features</ins>
+-  Insulting people badly
+-  complimenting people
+-  saying hello
+-  replying to people saying /eatMyBooty
+-  helping to vote. This may be helpful for breaking ties in votes.
+-  News about pastaJuice
+-  Roll a dice
+-  /help lists the commands PastaJuice has to offer
 
 
